@@ -1,0 +1,13 @@
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\bin\Debug\Pokemon Checker.exe.config
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon_Checker.frmPokemonChecker.resources
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon_Checker.Properties.Resources.resources
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon Checker.csproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\bin\Debug\Pokemon Checker.exe
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\bin\Debug\Pokemon Checker.pdb
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon Checker.exe
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon Checker.pdb
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\bin\Debug\Pokemon Checker.exe.manifest
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\bin\Debug\Pokemon Checker.application
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon Checker.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon Checker.exe.manifest
+C:\Users\Jordan\Desktop\Programs\Pokemon Checker\Pokemon Checker\obj\Debug\Pokemon Checker.application
